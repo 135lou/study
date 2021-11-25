@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75635f51-3b65-4798-9427-b8dd1936f37e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/top/Stack/symmetric-tree.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top/Stack/binary-tree-inorder-traversal.ts" beforeDir="false" afterPath="$PROJECT_DIR$/top/Stack/binary-tree-inorder-traversal.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21JBLeCvxQj6rovdgcY5JGJBWVb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/top/Stack" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75635f51-3b65-4798-9427-b8dd1936f37e" name="Default Changelist" comment="" />
+      <created>1637649255152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637649255152</updated>
+      <workItem from="1637649260307" duration="16232000" />
+      <workItem from="1637805430163" duration="1222000" />
+    </task>
+    <task id="LOCAL-00001" summary="add: 11.22">
+      <created>1637660144594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637660144594</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix: tree node">
+      <created>1637806035123</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637806035123</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add: 11.22" />
+    <MESSAGE value="fix: tree node" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: tree node" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637661339170">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1637661339170" />
+    <state x="405" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637666943965">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="405" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1637666943965" />
+    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1637806034933">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1637806034933" />
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2" timestamp="1637806037228">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1637806037228" />
+    <state x="509" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637806012835">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="509" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1637806012835" />
+  </component>
+</project>
